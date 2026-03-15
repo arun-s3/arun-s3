@@ -1,44 +1,74 @@
-<h1 align="center">Arun S</h1>
+## 👋 Hey, I'm Arun
+
+- 🎓 Computer Science Graduate  
+- 💻 Full-Stack Engineer building production-style web platforms, real-time systems, and interaction-driven applications  
+- ⚙ Interested in **Frontend Engineering** (interactive UI, DOM systems, animations) and **Backend Engineering** (scalable APIs, auth systems, real-time infrastructure)  
+- 🔗 **LinkedIn:** https://linkedin.com/in/ashishps1  
+
+---
 
 <p align="center">
-🎓 Computer Science Graduate • 💻 Full-Stack Engineer
-</p>
-
-<p align="center">
-Building production-style web platforms, real-time systems, and interaction-driven applications.
-</p>
-
-<p align="center">
-🔗 LinkedIn: https://linkedin.com/in/ashishps1
+  <img src="https://github-readme-stats.vercel.app/api?username=arun-s3&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=arun-s3&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+### ⚡ Tech Stack
 
-<p align="center">
+<table>
+<tr>
+<th>💻 Languages</th>
+<th>🎨 Frontend</th>
+<th>⚙ Backend</th>
+<th>🔌 Services</th>
+<th>☁ Infra & DevOps</th>
+</tr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arun-s3&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<tr>
+<td>
 
-<img src="https://streak-stats.demolab.com?user=arun-s3&theme=tokyonight&hide_border=true" height="160"/>
+JavaScript • TypeScript  
+HTML5 • CSS3  
+C/C++ • Java
 
-</p>
+</td>
 
----
+<td>
 
-## ⚡ Tech Stack
+React • Redux  
+Tailwind • SCSS  
+Framer Motion  
+Canvas API • postMessage API
 
-**Languages**  
-JavaScript • TypeScript • HTML5 • CSS3 • C/C++ • Java  
+</td>
 
-**Frontend**  
-React • Redux • Tailwind • Framer Motion • SCSS • Canvas API • postMessage API  
+<td>
 
-**Backend**  
-Node.js • Express • MongoDB • Mongoose • REST APIs • JWT • Socket.io • WebRTC  
+Node.js • Express  
+MongoDB • Mongoose  
+REST APIs • JWT  
+Socket.io • WebRTC
 
-**Payments & Services**  
-Stripe • Razorpay • PayPal • Cloudinary • Nodemailer  
+</td>
 
-**Infrastructure & DevOps**  
-AWS (EC2 • S3 • CloudFront • Route53 • ACM) • MongoDB Atlas • NGINX • PM2 • GitHub Actions • GitLab CI • CI/CD
+<td>
+
+Stripe • Razorpay  
+PayPal  
+Cloudinary  
+Nodemailer
+
+</td>
+
+<td>
+
+AWS EC2 • S3  
+CloudFront • Route53  
+ACM • MongoDB Atlas  
+NGINX • PM2  
+GitHub Actions • GitLab CI
+
+</td>
+</tr>
+</table>
