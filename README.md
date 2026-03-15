@@ -1,16 +1,17 @@
 <h1 align="center">Arun S</h1>
 
 <p align="center">
-Full-Stack Engineer building production-style systems, real-time applications, and interaction-driven web platforms.
+🎓 Computer Science Graduate <br>
+💻 Full-Stack Engineer building production-style web platforms, real-time systems, and interaction-driven applications
 </p>
 
 <p align="center">
-I enjoy designing scalable architectures, AI-assisted experiences, and cloud-deployed applications.
+I enjoy designing scalable backend architectures and crafting highly interactive frontend experiences.
 </p>
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
 
@@ -28,156 +29,88 @@ I enjoy designing scalable architectures, AI-assisted experiences, and cloud-dep
 
 ---
 
-# Featured Projects
+# 🛠 Tech Stack
 
-## FitLab — Full-Stack Fitness Ecosystem
+### 🎨 Frontend Engineering
 
-A large-scale full-stack platform combining fitness tracking, marketplace commerce, AI-assisted coaching, and real-time communication.
+• React  
+• Redux  
+• Tailwind CSS  
+• Framer Motion  
+• SCSS  
+• Vanilla JavaScript  
+• Canvas API  
+• postMessage API  
 
-**Highlights**
+### ⚙️ Backend Engineering
 
-• Workout tracking and health analytics  
-• AI-assisted personalized coaching system (Coach+)  
-• Real-time messaging and video communication using WebRTC  
-• Marketplace with payments, offers, and order workflows  
-• Admin analytics dashboard with business insights  
-• Production deployment with CI/CD and AWS infrastructure  
+• Node.js  
+• Express.js  
+• MongoDB  
+• Mongoose  
+• REST APIs  
+• JWT Authentication  
+• Socket.io  
+• WebRTC  
 
-**Tech**
+### 💳 Payments & Services
 
-React • Redux • Node.js • Express • MongoDB • Socket.io • WebRTC • AWS • CI/CD
+• Stripe  
+• Razorpay  
+• PayPal  
+• Cloudinary  
+• Nodemailer  
 
-Live  
-https://www.fitlab.co.in
+### ☁️ Infrastructure
 
-Repo  
-https://github.com/arun-s3/FitLab
+• AWS EC2  
+• AWS S3  
+• AWS CloudFront  
+• AWS Route53  
+• AWS ACM  
+• MongoDB Atlas  
+• NGINX  
+• PM2  
 
----
+### 🚀 DevOps
 
-## Cortex — Production-Inspired Admin & User Management System
-
-A backend-focused system demonstrating enterprise-style user lifecycle management and admin tooling.
-
-Highlights
-
-• Role-based access control architecture  
-• Secure authentication workflows  
-• Admin-managed user lifecycle operations  
-• REST API driven backend services  
-
-Tech
-
-Node.js • Express • MongoDB • JWT • REST APIs
-
-Repo  
-https://github.com/arun-s3/Cortex
-
----
-
-## CodeOne — Interaction-Driven EdTech Platform
-
-A UI engineering demo showcasing advanced DOM interaction systems built without frontend frameworks.
-
-Highlights
-
-• Real-time course search and filtering  
-• Scroll-triggered UI animations using Intersection Observer  
-• Animated statistics counters  
-• Dynamic DOM rendering systems  
-
-Tech
-
-HTML • SCSS • Vanilla JavaScript • DOM APIs
-
-Live  
-https://codeone-platform.netlify.app
-
-Repo  
-https://github.com/arun-s3/CodeOne
+• GitHub Actions  
+• GitLab CI  
+• CI/CD pipelines  
 
 ---
 
-## Robogeniz — Robotics Product Landing Platform
+# ❤️ What I Enjoy Building
 
-A modern robotics product showcase platform.
+🖥 **Frontend Engineering**
 
-Highlights
-
-• Structured landing page architecture  
-• Modular SCSS styling system  
-• Scroll-driven interaction design  
-
-Tech
-
-HTML • SCSS • Bootstrap • JavaScript
-
-Live  
-https://robogeniz.netlify.app
-
-Repo  
-https://github.com/arun-s3/Robogeniz
-
----
-
-# Tech Stack
-
-### Frontend
-
-React • Redux • Tailwind CSS • Framer Motion  
-SCSS • Vanilla JavaScript  
-Canvas API • postMessage API
-
-### Backend
-
-Node.js • Express.js  
-MongoDB • Mongoose  
-REST APIs • JWT Authentication  
-Socket.io • WebRTC
-
-### Payments & Services
-
-Stripe • Razorpay • PayPal  
-Cloudinary • Nodemailer
-
-### Infrastructure
-
-AWS EC2 • AWS S3 • CloudFront  
-Route53 • ACM  
-MongoDB Atlas  
-NGINX • PM2
-
-### DevOps
-
-GitHub Actions  
-GitLab CI  
-CI/CD pipelines
-
----
-
-# What I Enjoy Building
-
-• Full-stack web platforms  
-• Real-time communication systems  
 • Interaction-driven user interfaces  
+• Complex DOM-based UI systems  
+• Animation-rich web experiences  
+• Performance-focused UI architecture  
+
+⚙️ **Backend Engineering**
+
+• Scalable REST API architectures  
+• Authentication & authorization systems  
+• Real-time communication platforms  
+• Data-driven backend services  
+
+---
+
+# 🔬 Currently Exploring
+
+• Advanced system design for large-scale web platforms  
 • AI-assisted product features  
-• Cloud-deployed applications
-
----
-
-# Currently Exploring
-
-• Advanced system design for web platforms  
-• AI-driven product features  
 • Scalable backend architectures  
-• WebRTC communication systems
+• Real-time communication using WebRTC  
 
 ---
 
-# Connect
+# 🤝 Connect
 
-LinkedIn  
-https://linkedin.com/in/ashishps1
+🔗 LinkedIn  
+https://linkedin.com/in/ashishps1  
 
-GitHub  
+💻 GitHub  
 https://github.com/arun-s3
