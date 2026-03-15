@@ -1,12 +1,13 @@
 <h1 align="center">Arun S</h1>
 
 <p align="center">
-🎓 Computer Science Graduate <br>
-💻 Full-Stack Engineer building production-style web platforms, real-time systems, and interaction-driven applications
+🎓 Computer Science Graduate • 💻 Full-Stack Engineer  
+Building production-style web platforms, real-time systems, and interaction-driven applications.
 </p>
 
 <p align="center">
-I enjoy designing scalable backend architectures and crafting highly interactive frontend experiences.
+Strong interest in both <b>Frontend Engineering</b> (complex UI systems, animations, DOM architecture)  
+and <b>Backend Engineering</b> (scalable APIs, authentication systems, real-time infrastructure).
 </p>
 
 ---
@@ -15,102 +16,47 @@ I enjoy designing scalable backend architectures and crafting highly interactive
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arun-s3&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arun-s3&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=arun-s3&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-s3&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=arun-s3&theme=tokyonight&hide_border=true" height="165"/>
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### 🎨 Frontend Engineering
+**Frontend**  
+React • Redux • Tailwind • Framer Motion • SCSS • JavaScript • Canvas API • postMessage API
 
-• React  
-• Redux  
-• Tailwind CSS  
-• Framer Motion  
-• SCSS  
-• Vanilla JavaScript  
-• Canvas API  
-• postMessage API  
+**Backend**  
+Node.js • Express • MongoDB • Mongoose • REST APIs • JWT • Socket.io • WebRTC
 
-### ⚙️ Backend Engineering
+**Services & Payments**  
+Stripe • Razorpay • PayPal • Cloudinary • Nodemailer
 
-• Node.js  
-• Express.js  
-• MongoDB  
-• Mongoose  
-• REST APIs  
-• JWT Authentication  
-• Socket.io  
-• WebRTC  
+**Infrastructure**  
+AWS (EC2 • S3 • CloudFront • Route53 • ACM) • MongoDB Atlas • NGINX • PM2
 
-### 💳 Payments & Services
-
-• Stripe  
-• Razorpay  
-• PayPal  
-• Cloudinary  
-• Nodemailer  
-
-### ☁️ Infrastructure
-
-• AWS EC2  
-• AWS S3  
-• AWS CloudFront  
-• AWS Route53  
-• AWS ACM  
-• MongoDB Atlas  
-• NGINX  
-• PM2  
-
-### 🚀 DevOps
-
-• GitHub Actions  
-• GitLab CI  
-• CI/CD pipelines  
+**DevOps**  
+GitHub Actions • GitLab CI • CI/CD Pipelines
 
 ---
 
-# ❤️ What I Enjoy Building
+## 🚀 What I Enjoy Building
 
-🖥 **Frontend Engineering**
-
-• Interaction-driven user interfaces  
-• Complex DOM-based UI systems  
-• Animation-rich web experiences  
-• Performance-focused UI architecture  
-
-⚙️ **Backend Engineering**
-
-• Scalable REST API architectures  
-• Authentication & authorization systems  
-• Real-time communication platforms  
-• Data-driven backend services  
+🎨 **Frontend** — Interaction-driven interfaces, animation systems, complex UI state management  
+⚙️ **Backend** — Scalable APIs, authentication architectures, real-time communication systems
 
 ---
 
-# 🔬 Currently Exploring
+## 🔎 Currently Exploring
 
-• Advanced system design for large-scale web platforms  
-• AI-assisted product features  
-• Scalable backend architectures  
-• Real-time communication using WebRTC  
+AI-assisted product features • System design • WebRTC communication architectures
 
 ---
 
-# 🤝 Connect
+## 🤝 Connect
 
-🔗 LinkedIn  
-https://linkedin.com/in/ashishps1  
-
-💻 GitHub  
-https://github.com/arun-s3
+🔗 LinkedIn — https://linkedin.com/in/ashishps1  
+💻 GitHub — https://github.com/arun-s3
