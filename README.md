@@ -2,7 +2,7 @@
 
 * 🎓 Computer Science Graduate
 * 💻 Full-Stack (MERN) Engineer & Product Builder focused on architecting, building, deploying, and maintaining production-grade systems end-to-end
-* 🚀 Experienced in real-time applications, AI-assisted workflows, scalable APIs, authentication systems, analytics dashboards, payment integrations, cloud infrastructure, and advanced admin platforms
+* 🚀 Experienced in real-time applications, AI-powered workflows, scalable APIs, authentication systems, analytics dashboards, payment integrations, cloud infrastructure, and advanced admin platforms
 * ⚙️ Interested in Frontend Engineering (interactive UI systems, animations, state architecture, data visualization, canvas/3D rendering) and Backend Engineering (real-time infrastructure, scalable APIs, databases, cloud deployment, CI/CD automation, distributed workflows)
 * ☁️ Working with AWS, CI/CD pipelines, deployment, automation, and modern product engineering workflows
 * 🧠 Passionate about 0→1 product building, ownership-driven engineering, and creating systems that balance UX, scalability, and business needs
@@ -44,6 +44,7 @@
 
 • React.js  
 • Redux  
+• WebRTC  
 • Tailwind CSS  
 • SCSS  
 • Framer Motion  
@@ -62,12 +63,12 @@
 • MongoDB  
 • Mongoose  
 • Socket.io  
+• REST APIs    
 • JWT Authentication  
+• AI/LLM Integration  
 • Nodemailer  
 • Cloudinary  
-• JSON  
-• YAML  
-• REST APIs  
+• JSON  • YAML    
 
 </td>
 
@@ -78,10 +79,11 @@
 • AWS CloudFront  
 • AWS Route53  
 • AWS ACM  
-• Nginx  
-• CI/CD (GitLab CI, GitHub Actions)  
-• Linux  
-• Shell Scripting  
+• Render • Vercel    
+• Nginx     
+• CI/CD (GitLab CI, GitHub Actions)     
+• Linux     
+• Shell Scripting   
 
 </td>
 
@@ -89,6 +91,8 @@
 
 • Git  
 • Figma  
+• Postman  
+• Moon Modeler  
 
 </td>
 </tr>
