@@ -1,9 +1,13 @@
 ## 👋 Hey, I'm Arun
 
-- 🎓 Computer Science Graduate  
-- 💻 Full-Stack (MERN) Engineer building production-style web platforms, real-time systems, and interaction-driven applications  
-- ⚙ Interested in **Frontend** (interactive UI systems, DOM architecture, animations, state mgmt, data visualization, canvas/3D rendering) & **Backend Engineering** (scalable APIs, authentication systems, database design, real-time infrastructure, cloud deployment, CI/CD pipelines)
-- 🔗 **LinkedIn:** https://linkedin.com/in/ashishps1  
+* 🎓 Computer Science Graduate
+* 💻 Full-Stack (MERN) Engineer & Product Builder focused on architecting, building, deploying, and maintaining production-grade systems end-to-end
+* 🚀 Experienced in real-time applications, AI-assisted workflows, scalable APIs, authentication systems, analytics dashboards, payment integrations, cloud infrastructure, and advanced admin platforms
+* ⚙️ Interested in Frontend Engineering (interactive UI systems, animations, state architecture, data visualization, canvas/3D rendering) and Backend Engineering (real-time infrastructure, scalable APIs, databases, cloud deployment, CI/CD automation, distributed workflows)
+* ☁️ Working with AWS, CI/CD pipelines, deployment, automation, and modern product engineering workflows
+* 🧠 Passionate about 0→1 product building, ownership-driven engineering, and creating systems that balance UX, scalability, and business needs
+* 🔗 LinkedIn: https://www.linkedin.com/in/arun-s1
+
 
 ---
 
