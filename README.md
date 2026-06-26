@@ -63,9 +63,9 @@
 • Express.js  
 • MongoDB  
 • Mongoose  
-• Prisma
-• PostgreSql
-• Socket.io  
+• Prisma  
+• PostgreSql  
+• Socket.io    
 • REST APIs    
 • JWT Authentication  
 • AI/LLM Integration  
