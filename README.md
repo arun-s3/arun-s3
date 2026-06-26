@@ -31,8 +31,8 @@
 <tr>
 <td valign="top">
 
-• JavaScript  
 • TypeScript  
+• JavaScript  
 • HTML5  
 • CSS3  
 • C/C++  
@@ -43,6 +43,7 @@
 <td valign="top">
 
 • React.js  
+• Next.js, App router
 • Redux  
 • WebRTC  
 • Tailwind CSS  
@@ -62,6 +63,8 @@
 • Express.js  
 • MongoDB  
 • Mongoose  
+• Prisma
+• PostgreSql
 • Socket.io  
 • REST APIs    
 • JWT Authentication  
@@ -79,6 +82,7 @@
 • AWS CloudFront  
 • AWS Route53  
 • AWS ACM  
+• AWS RDS 
 • Render • Vercel    
 • Nginx     
 • CI/CD (GitLab CI, GitHub Actions)     
